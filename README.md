@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mustafacanayter
-- 👀 I’m interested in Data Analysis, Data Visualization, Computational Linguistics, Speech Act Parsing, Annotation, and Phonetics...
-- 📕 I’m currently learning VBA, Python, Pandas, regex, and SQL...
+- 👋 Hi, I’m @mustafacanayter. 
+- 📚 I'm a Linguist looking to fuse theoretical linguistics with data science and visualization.
+- 📕 I’m currently learning Python and SQL.
 
 <!---
 mustafacanayter/mustafacanayter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
