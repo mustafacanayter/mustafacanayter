@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mustafacanayter. 
-- 📚 I'm a Linguist looking to fuse theoretical linguistics with data science and visualization.
-- 📕 I’m currently learning Python and SQL.
+- 👋 Hi, I am Mustafa, a Turkish-American Linguist, Data Scientist living in Chicago.
+- 📚 #linguistics, #phonetics, #naturallanguageprocessing, #parsing, #machinetranslation, #python, #sql, #tableau, #html, #css, #sentimentanalysis
 
 <!---
 mustafacanayter/mustafacanayter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
