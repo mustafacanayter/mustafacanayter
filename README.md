@@ -2,7 +2,7 @@
 
 🔘 I adopt creative data science and linguistic analysis strategies to boost data-driven communication and decision-making. I approach problems from innovative perspectives, enhancing data interpretation and communication strategies. 
 
-🔘 I have practical experience with Python (Pandas, Matplotlib), SQL (PostgreSQL/pgAdmin, MongoDB, SQLAlchemy, NoSQL), JavaScript (GeoJSON, Leaflet.js), Tableau, HTML, CSS, and VBA.
+🔘 I have practical experience with Python (Pandas, Matplotlib), SQL (PostgreSQL/pgAdmin, MongoDB, SQLAlchemy, NoSQL), machine learning (supervised/unsupervised), Large Language Models, JavaScript (GeoJSON, Leaflet.js), Tableau, HTML, CSS, and VBA.
 
 🔘 I can be reached out at [LinkedIn](https://www.linkedin.com/in/mustafacanayter/).
 <!---
