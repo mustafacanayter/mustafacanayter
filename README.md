@@ -1,6 +1,6 @@
 👋 **Hello, I'm Mustafa Can Ayter**
 
-I'm a Data Scientist and Linguist based in Chicago, passionate about leveraging data science techniques and linguistic analysis to drive insights and decision-making. With a diverse background spanning linguistics, research, and data science, I bring a unique perspective to solving complex problems.
+I'm a Data Scientist and Linguist based in Chicago. I leverage data science techniques and linguistic analysis to drive insights and decision-making.
 
 🌟 **Skills and Expertise**
 
