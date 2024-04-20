@@ -33,7 +33,7 @@ I'm a data scientist and linguist based in Chicago, passionate about leveraging 
   Collected and analyzed speech data using Praat and Python
 
 🌐 **Let's Connect!**
-I'm always excited to collaborate on interesting projects, share insights, and learn from others in the data science and linguistics communities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mustafacanayter/). or explore my projects here on GitHub.
+I'm always excited to collaborate on interesting projects, share insights, and learn from others in the data science and linguistics communities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mustafacanayter/) or explore my projects here on GitHub.
 
 Looking forward to connecting with you!
 <!---
