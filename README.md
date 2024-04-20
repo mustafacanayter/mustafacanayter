@@ -4,37 +4,37 @@ I'm a data scientist and linguist based in Chicago, passionate about leveraging 
 
 🌟 **Skills and Expertise**
 
-**Programming**: Python (Pandas, Matplotlib), SQL (PostgreSQL, MongoDB), JavaScript, HTML, CSS
-**Machine Learning**: Supervised and unsupervised learning, neural networks, deep learning
-**Data Visualization**: Tableau, Leaflet.js, GeoJSON
-**Linguistic Analysis**: Phonetics, phonology, morphology, syntax, semantics
-**Languages**: Turkish (native), English (fluent), Tatar, Swedish
+- **Programming**: Python (Pandas, Matplotlib), SQL (PostgreSQL, MongoDB), JavaScript, HTML, CSS
+- **Machine Learning**: Supervised and unsupervised learning, neural networks, deep learning
+- **Data Visualization**: Tableau, Leaflet.js, GeoJSON
+- **Linguistic Analysis**: Phonetics, phonology, morphology, syntax, semantics
+- **Languages**: Turkish (native), English (fluent), Tatar, Swedish
 
 🎓 **Education**
 
-**Master of Arts in Central Eurasian Studies** | Indiana University, Bloomington, IN, USA
-**Bachelor of Arts in Linguistics** | Hacettepe University, Ankara, Türkiye
-**Erasmus - Linguistics and Philology** | Uppsala University, Uppsala, Sweden
-**Data Science and Visualization Boot Camp** | Northwestern University, Chicago, IN, USA
+- **Master of Arts in Central Eurasian Studies** | Indiana University, Bloomington, IN, USA
+- **Bachelor of Arts in Linguistics** | Hacettepe University, Ankara, Türkiye
+- **Erasmus - Linguistics and Philology** | Uppsala University, Uppsala, Sweden
+- **Data Science and Visualization Boot Camp** | Northwestern University, Chicago, IN, USA
 
 💼 **Professional Experience in Data Science and Linguistics**
 
-**Linguist** | KACE Company (formerly MVM, Inc.), Chicago, IL
+- **Linguist** | KACE Company (formerly MVM, Inc.), Chicago, IL
   Provided simultaneous live translation for law enforcement agencies
   Organized and reviewed legal information, live audio, and written content
-**Graduate Assistant** | Indiana University, Bloomington, IN
+- **Graduate Assistant** | Indiana University, Bloomington, IN
   Designed and conducted linguistic examinations, analyzing speech datasets
   Taught graduate-level linguistics courses and developed teaching materials
 
 🚀 **Data Science**
 
-**MADAIN: Skin Cancer Prediction** | Northwestern University Data Science Boot Camp
+- **MADAIN: Skin Cancer Prediction** | Northwestern University Data Science Boot Camp
   Developed a machine learning model to predict skin cancer using CNN architectures
   Conducted extensive testing and benchmarking, planning deployment via web app
 
 🔬 **Research**
 
-**Master's Thesis: "Towards Accounting for L2 Accent - The Case of Turkish Vowel Space"**
+- **Master's Thesis: "Towards Accounting for L2 Accent - The Case of Turkish Vowel Space"**
   Designed and conducted research on second language acquisition and phonetics
   Collected and analyzed speech data using Praat and Python
 
