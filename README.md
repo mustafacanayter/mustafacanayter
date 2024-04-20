@@ -28,7 +28,7 @@ I'm a Data Scientist and Linguist based in Chicago, passionate about leveraging 
 
 🚀 **Data Science**
 
-- **[MADAIN (Mole Analysis with Deep Adam-Optimized Inception Network): Skin Cancer Prediction Using Deep Learning](https://github.com/mustafacanayter/MADAIN)** at Northwestern University Data Science and Visualization Boot Camp
+- **[MADAIN (Mole Analysis with Deep Adam-Optimized Inception Network)](https://github.com/mustafacanayter/MADAIN)** at Northwestern University Data Science and Visualization Boot Camp
   * Developed a machine learning model to predict skin cancer using CNN architectures.
   * Conducted extensive testing and benchmarking, planning deployment via web app.
 
