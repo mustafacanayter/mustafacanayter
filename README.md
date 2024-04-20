@@ -1,6 +1,6 @@
 👋 **Hello, I'm Mustafa Can Ayter**
 
-I'm a data scientist and linguist based in Chicago, passionate about leveraging data science techniques and linguistic analysis to drive insights and decision-making. With a diverse background spanning linguistics, research, and data science, I bring a unique perspective to solving complex problems.
+I'm a Data Scientist and Linguist based in Chicago, passionate about leveraging data science techniques and linguistic analysis to drive insights and decision-making. With a diverse background spanning linguistics, research, and data science, I bring a unique perspective to solving complex problems.
 
 🌟 **Skills and Expertise**
 
@@ -19,16 +19,16 @@ I'm a data scientist and linguist based in Chicago, passionate about leveraging 
 
 💼 **Professional Experience in Data Science and Linguistics**
 
-- **Linguist** | KACE Company (formerly MVM, Inc.), Chicago, IL
+- **Linguist** at KACE Company (formerly MVM, Inc.) in Chicago, IL
   * Provided simultaneous live translation for law enforcement agencies.
   * Organized and reviewed legal information, live audio, and written content.
-- **Graduate Assistant** | Indiana University, Bloomington, IN
+- **Graduate Assistant** at Indiana University in Bloomington, IN
   * Designed and conducted linguistic examinations, analyzing speech datasets.
   * Taught graduate-level linguistics courses and developed teaching materials.
 
 🚀 **Data Science**
 
-- **MADAIN: Skin Cancer Prediction** at Northwestern University Data Science Boot Camp
+- **[MADAIN (Mole Analysis with Deep Adam-Optimized Inception Network): Skin Cancer Prediction Using Deep Learning](https://github.com/mustafacanayter/MADAIN)** at Northwestern University Data Science and Visualization Boot Camp
   * Developed a machine learning model to predict skin cancer using CNN architectures.
   * Conducted extensive testing and benchmarking, planning deployment via web app.
 
