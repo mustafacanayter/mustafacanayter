@@ -12,10 +12,10 @@ I'm a Data Scientist and Linguist based in Chicago, passionate about leveraging 
 
 🎓 **Education**
 
-- **Master of Arts in Central Eurasian Studies** | Indiana University, Bloomington, IN, USA.
-- **Bachelor of Arts in Linguistics** | Hacettepe University, Ankara, Türkiye.
-- **Erasmus - Linguistics and Philology** | Uppsala University, Uppsala, Sweden.
-- **Data Science and Visualization Boot Camp** | Northwestern University, Chicago, IN, USA.
+- **Master of Arts in Central Eurasian Studies** at Indiana University in Bloomington, IN, USA.
+- **Bachelor of Arts in Linguistics** at Hacettepe University in Ankara, Türkiye.
+- **Erasmus - Linguistics and Philology** at Uppsala University in Uppsala, Sweden.
+- **Data Science and Visualization Boot Camp** at Northwestern University in Chicago, IN, USA.
 
 💼 **Professional Experience in Data Science and Linguistics**
 
