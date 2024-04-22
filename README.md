@@ -2,10 +2,9 @@
 
 🌟 My skills include Python, SQL, machine learning, data visualization, and linguistic analysis. I hold a Master's in Central Eurasian Studies from Indiana University, a Bachelor's in Linguistics from Hacettepe University in Turkey, and completed a Data Science and Visualization Boot Camp at Northwestern University.
 
-💼 I have made significant contributions in data science and linguistics. As a linguist at KACE Company, I provided simultaneous translation for law enforcement. At Indiana University, I conducted linguistic examinations, analyzed speech datasets, and taught graduate courses.
+💼 As a linguist at KACE Company, I provided simultaneous translation and localization services for law enforcement. At Indiana University, I conducted linguistic examinations, analyzed speech datasets, and taught graduate courses.
 
-🚀 I have collaborated on impactful data science projects:
-
+🚀  In the realm of data science, I have collaborated on several impactful projects:
 **MADAIN**: Developed a machine learning model to predict skin cancer using CNNs. Contributed to testing, benchmarking, and deployment.
 **Effects of Climate Variability on Wine Production Metrics**: Created a Pandas database, applied data cleaning and integration, conducted statistical analysis, and created visualizations.
 **Geospatial Visualization of Volcanic Activity**: Created a SQL database, leveraged dynamic maps to present volcanic activity data, incorporated interactive objects, and enhanced user engagement.
