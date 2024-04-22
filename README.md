@@ -1,49 +1,7 @@
-👋 **Hello, I'm Mustafa Can Ayter**
+👋 Hello! I'm Mustafa Can Ayter, a data scientist and linguist based in Chicago. With a unique blend of expertise in data science and linguistics, I specialize in leveraging advanced techniques to extract valuable insights and drive data-driven decision-making.
 
-I'm a Data Scientist and Linguist based in Chicago. I leverage data science techniques and linguistic analysis to drive insights and decision-making.
+🌟 My skills encompass programming languages such as Python and SQL, machine learning algorithms, data visualization tools, and a deep understanding of linguistic analysis. I hold a Master's degree in Central Eurasian Studies from Indiana University and a Bachelor's degree in Linguistics from Hacettepe University in Turkey. I have also completed a rigorous Data Science and Visualization Boot Camp at Northwestern University.
 
-🌟 **Skills and Expertise**
+💼 Throughout my professional journey, I have made significant contributions in both data science and linguistics. As a linguist at KACE Company, I provided critical simultaneous translation services for law enforcement agencies. In my role as a graduate assistant at Indiana University, I designed and conducted linguistic examinations, analyzing speech datasets to uncover valuable insights. I also developed and taught graduate-level linguistics courses. In the realm of data science, I have spearheaded projects such as MADAIN (Mole Analysis with Deep Adam-Optimized Inception Network), where I developed a cutting-edge machine learning model to predict skin cancer using CNN architectures. My research endeavors include my master's thesis, "Towards Accounting for L2 Accent - The Case of Turkish Vowel Space," which involved designing and conducting research on second language acquisition and phonetics.
 
-- **Programming**: Python (Pandas, Matplotlib), SQL (PostgreSQL, MongoDB), JavaScript, HTML, CSS.
-- **Machine Learning**: Supervised and unsupervised learning, neural networks, deep learning.
-- **Data Visualization**: Tableau, Leaflet.js, GeoJSON.
-- **Linguistic Analysis**: Phonetics, phonology, morphology, syntax, semantics.
-- **Languages**: Turkish (native), English (fluent), Tatar, Swedish.
-
-🎓 **Education**
-
-- **Master of Arts in Central Eurasian Studies** at Indiana University in Bloomington, IN, USA.
-- **Bachelor of Arts in Linguistics** at Hacettepe University in Ankara, Türkiye.
-- **Erasmus - Linguistics and Philology** at Uppsala University in Uppsala, Sweden.
-- **Data Science and Visualization Boot Camp** at Northwestern University in Chicago, IN, USA.
-
-💼 **Professional Experience in Data Science and Linguistics**
-
-- **Linguist** at KACE Company (formerly MVM, Inc.) in Chicago, IL
-  * Provided simultaneous live translation for law enforcement agencies.
-  * Organized and reviewed legal information, live audio, and written content.
-- **Graduate Assistant** at Indiana University in Bloomington, IN
-  * Designed and conducted linguistic examinations, analyzing speech datasets.
-  * Taught graduate-level linguistics courses and developed teaching materials.
-
-🚀 **Data Science**
-
-- **[MADAIN (Mole Analysis with Deep Adam-Optimized Inception Network)](https://github.com/mustafacanayter/MADAIN)** at Northwestern University Data Science and Visualization Boot Camp
-  * Developed a machine learning model to predict skin cancer using CNN architectures.
-  * Conducted extensive testing and benchmarking, planning deployment via web app.
-
-🔬 **Research**
-
-- **Master's Thesis: "Towards Accounting for L2 Accent - The Case of Turkish Vowel Space"** 
-  * Designed and conducted research on second language acquisition and phonetics.
-  * Collected and analyzed speech data using Praat and Python.
-
-🌐 **Let's Connect!**
-
-I'm always excited to collaborate on interesting projects, share insights, and learn from others in the data science and linguistics communities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mustafacanayter/) or explore my projects here on GitHub.
-
-Looking forward to connecting with you!
-<!---
-mustafacanayter/mustafacanayter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 I am passionate about collaborating with fellow data scientists, linguists, and researchers to tackle challenging problems and drive innovation. If you would like to connect, discuss potential collaborations, or learn more about my work, please feel free to reach out to me on LinkedIn or explore my projects here on GitHub. I look forward to the opportunity to work together and make a meaningful impact in the fields of data science and linguistics.
